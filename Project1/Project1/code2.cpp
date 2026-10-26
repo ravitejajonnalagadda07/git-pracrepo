@@ -1,1 +1,8 @@
-cout << "hi from master visualstudio merge" << endl;
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello from master" << endl;
+    return 0;
+}
