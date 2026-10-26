@@ -1,1 +1,8 @@
-cout << "hi from master visualstudio from dev  << endlgi;
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello from ravideveloper" << endl;
+    return 0;
+}
