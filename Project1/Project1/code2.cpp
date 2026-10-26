@@ -1,1 +1,1 @@
-cout << "hi from master visualstudio" << endl;
+cout << "hi from master visualstudio merge" << endl;
